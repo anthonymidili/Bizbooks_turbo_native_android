@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.BullhornXL" parent="Theme.AppCompat.NoActionBar">
+    <style name="Base.Theme.Bizbooks" parent="Theme.AppCompat.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.BullhornXL" parent="Base.Theme.BullhornXL" />
+    <style name="Theme.Bizbooks" parent="Base.Theme.Bizbooks" />
 </resources>

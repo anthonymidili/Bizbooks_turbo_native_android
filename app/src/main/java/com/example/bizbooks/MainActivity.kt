@@ -1,4 +1,4 @@
-package com.example.bullhornxl
+package com.example.bizbooks
 
 import android.os.Bundle
 import dev.hotwire.navigation.activities.HotwireActivity
@@ -13,7 +13,7 @@ class MainActivity : HotwireActivity() {
     override fun navigatorConfigurations() = listOf(
         NavigatorConfiguration(
             name = "main",
-            startLocation = "https://bullhornxl.com",
+            startLocation = "https://bizbooks.me",
             navigatorHostId = R.id.main_nav_host
         )
     )

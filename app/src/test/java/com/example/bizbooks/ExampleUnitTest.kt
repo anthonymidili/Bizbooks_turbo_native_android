@@ -1,4 +1,4 @@
-package com.example.bullhornxl
+package com.example.bizbooks
 
 import org.junit.Test
 
